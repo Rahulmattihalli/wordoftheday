@@ -1,0 +1,39 @@
+@media(min-width:700px){
+    .first-feature{
+        display: flex;
+        height: 500px;
+        width: 100%;
+    }
+}
+
+
+.first-feature-pic{
+    flex:2;
+    
+ 
+}
+.first-feature-text h1{
+    text-align: center;
+vertical-align: middle;
+display: flex; 
+flex-direction: column;
+padding:0.7em;
+color: black;
+text-transform: uppercase;
+font-family: Arial, Helvetica, sans-serif;
+text-decoration: black;
+}
+.first-feature-text{
+    flex:3;
+  
+    text-align: center;
+vertical-align: middle;
+display: flex;
+flex-direction: column;
+  justify-content: center;
+  align-items: center; 
+  padding:4em;
+  font-weight: bold;
+  font-size: larger;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
