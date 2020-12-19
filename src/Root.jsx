@@ -4,6 +4,7 @@ import Footer from './Comp/footer';
 import Header1 from './Comp/Header1';
 import Wordsstories from './Comp/Wordsstories';
 import "bootstrap/dist/css/bootstrap.css"
+import "./index.css"
 import Main from './Comp/main';
 import Mediaplayer from './Comp/Videoplayer';
 import Feature1 from './Comp/feature1';
@@ -26,13 +27,13 @@ return(
  <BrowserRouter>
 
    <div style={{width:100+"%",backgroundColor:"#ffffff"}} className="btn  nav-flex-icons"> 
-    <div style={{width:100+"%",backgroundColor:"#ffffff"}}><Link to="/Demo" className="btn btn" style={{backgroundColor:"#e57373", color:"black"}}>Show me the demo</Link></div>
+    <div style={{width:100+"%",backgroundColor:"#ffffff"}}><Link to="/Demo" className="custom-button" style={{backgroundColor:"#e57373", color:"black"}}>Show me the demo</Link></div>
    
     <br></br>
    
-    <Link to="/" className="btn btn" style={{backgroundColor:"#bbdefb", color:"black"}}>Word of this week</Link> <span></span>
+    <Link to="/" className="custom-button" style={{backgroundColor:"#4e9af1"}}>Word of this week</Link> <span></span>
     
-          <Link to="/previous" className="btn btn" style={{backgroundColor:"#bbdefb", color:"black"}}>Previous weeks</Link>
+          <Link to="/previous" className="custom-button" style={{backgroundColor:"#bbdefb", color: "black"}}>Previous weeks</Link>
        
         </div>
         
