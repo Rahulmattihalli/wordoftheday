@@ -4,12 +4,13 @@ import "bootstrap/dist/css/bootstrap.css"
 import { SocialIcon } from 'react-social-icons';
 
 function Footer(){
+	const philomath_playstore = "https://bit.ly/PhilomathAPP";
 return(
 <footer>
 <div style={{width:100+"%", height:130+"px", backgroundColor:"black"}} className="btn-success">
     <br></br>
     <h3 style={{textAlign:"center", display:"block", marginRight:"auto", marginLeft:"auto", fontFamily:"fantasy"}}>For detailed analysis of the word with graphs</h3>
-    <button style={{postition:"center", display:"block",marginTop:10, marginRight:"auto", marginLeft:"auto"}} className="button7 bouncy">CLICK HERE TO INSTALL THE APP</button>
+    <center><a href={philomath_playstore} target="_blank" className="button7 bouncy">CLICK HERE TO INSTALL THE APP</a></center>
 	
 </div>
 <div className="social">
