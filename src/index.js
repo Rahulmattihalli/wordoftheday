@@ -7,6 +7,8 @@ import Root from './Root';
 import Header1 from './Comp/Header1';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import Wordsstories from './Comp/Wordsstories';
+import Signup from './Signup';
+import Authpage from './Authpage';
 
 
 

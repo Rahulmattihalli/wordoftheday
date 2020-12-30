@@ -83,3 +83,27 @@ a.custom-button:hover {
 	text-align: center;
 	background-color: black;
 }
+
+.Signup-container{
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+
+}
+
+.Signup{
+
+	width:400px;
+	height:400px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+	
+	border: #888888 solid 1px;
+	background-color: #f4f4f4;
+
+}

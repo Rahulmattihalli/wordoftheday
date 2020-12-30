@@ -1,19 +1,19 @@
 import React, { Component } from 'react';
 import 'bootstrap/dist/css/bootstrap.css'
 import './feature1.css'
-import splash from './../images/splash_philomath.gif'
+import splash from './../images/notifications.gif'
 function Feature3(){
 
 
    
 
         return(
-        <div  style={{marginTop:3+"em", width:95+"%", borderTop:"0.5px ridge #b3b3b3",borderBottom:"0.5px solid #f4f4f4"}} className="container" >
+        <div  style={{marginTop:3+"em", width:95+"%",  borderTop:"0.5px ridge #b3b3b3"}} className="container" >
 			<div className="first-feature">
 			<div className="first-feature-pic">
-			<div  data-aos="fade-down" style={{backgroundColor:"white", position:"relative",width:270+"px", height:480+"px",border:16+"px black solid",margin:"auto",marginTop:10, marginBottom:0, borderTopWidth:60+"px",borderBottomWidth:60+"px",borderRadius:36+"px"}}>
+			<div  data-aos="fade-down" style={{backgroundColor:"white", position:"relative",width:270+"px", height:520+"px",border:16+"px black solid",margin:"auto",marginTop:10, marginBottom:0, borderTopWidth:60+"px",borderBottomWidth:60+"px",borderRadius:36+"px"}}>
 
-			<img src={splash} style={{width:240+"px", height:380+"px"}}></img>
+			<img src={splash} style={{width:240+"px", height:430+"px"}}></img>
              </div>
 			</div>
 			<div data-aos="fade-right" className="first-feature-text">
