@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e5eae0f7.chunk.css",
+    "main.js": "/static/js/main.e0d2cf14.chunk.js",
+    "main.js.map": "/static/js/main.e0d2cf14.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bb881318.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bb881318.js.map",
+    "static/css/2.4a578ff9.chunk.css": "/static/css/2.4a578ff9.chunk.css",
+    "static/js/2.8ea959fd.chunk.js": "/static/js/2.8ea959fd.chunk.js",
+    "static/js/2.8ea959fd.chunk.js.map": "/static/js/2.8ea959fd.chunk.js.map",
+    "static/js/3.3c232951.chunk.js": "/static/js/3.3c232951.chunk.js",
+    "static/js/3.3c232951.chunk.js.map": "/static/js/3.3c232951.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4a578ff9.chunk.css.map": "/static/css/2.4a578ff9.chunk.css.map",
+    "static/css/main.e5eae0f7.chunk.css.map": "/static/css/main.e5eae0f7.chunk.css.map",
+    "static/js/2.8ea959fd.chunk.js.LICENSE.txt": "/static/js/2.8ea959fd.chunk.js.LICENSE.txt",
+    "static/media/Philomath.85cbba60.mp4": "/static/media/Philomath.85cbba60.mp4",
+    "static/media/ai.0065febc.gif": "/static/media/ai.0065febc.gif",
+    "static/media/androidintegration.108a2bf5.gif": "/static/media/androidintegration.108a2bf5.gif",
+    "static/media/bootstrap.css": "/static/media/glyphicons-halflings-regular.be810be3.woff2",
+    "static/media/notifications.5c72367d.gif": "/static/media/notifications.5c72367d.gif",
+    "static/media/philomath_logo.e0742718.png": "/static/media/philomath_logo.e0742718.png",
+    "static/media/quiz.af249b06.gif": "/static/media/quiz.af249b06.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb881318.js",
+    "static/css/2.4a578ff9.chunk.css",
+    "static/js/2.8ea959fd.chunk.js",
+    "static/css/main.e5eae0f7.chunk.css",
+    "static/js/main.e0d2cf14.chunk.js"
+  ]
+}
